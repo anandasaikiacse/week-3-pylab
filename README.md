@@ -1,2 +1,1 @@
-# week-3-pylab
-Week 3 python programmes in lab class
+# Week 3 Python Lab
